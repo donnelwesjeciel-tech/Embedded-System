@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pedro's Resume</title>
+</head>
+<body>
+    <h2>Pedro García's Resume</h2>
+    <p>Email: <a href="mailto:pedro@example.com">pedro@example.com</a></p>
+    <p>Phone: (555) 555-5555</p>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>Project Management</li>
+        <li>Data Analysis</li>
+        <li>Team Leadership</li>
+        <li>Marketing Strategy</li>
+        <li>Financial Planning</li>
+    </ul>
+
+    <h3>Work Experience</h3>
+    <p><b>Company A (2019–2021):</b> Marketing Intern</p>
+    <p><b>Company B (2021–Present):</b> Project Manager</p>
+
+    <h3>Education</h3>
+    <p>Bachelor’s Degree in Business Administration from XYZ University (2019)</p>
+</body>
+</html>
