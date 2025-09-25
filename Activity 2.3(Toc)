@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table of Contents</title>
+</head>
+<body>
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="home.html" target="rightframe">Home</a></li>
+        <li><a href="resume.html" target="rightframe">Resume</a></li>
+        <li><a href="schedule.html" target="rightframe">Schedule</a></li>
+    </ul>
+</body>
+</html>
