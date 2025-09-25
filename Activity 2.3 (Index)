@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page with Frames</title>
+</head>
+<body>
+
+    <frameset rows="150,*">
+        <frame src="banner.html" name="topframe">
+    </frameset>
+
+    <frameset cols="200,*">
+        <frame src="toc.html" name="leftframe">
+        <frame src="home.html" name="rightframe">
+    </frameset>
+
+</body>
+</html>
