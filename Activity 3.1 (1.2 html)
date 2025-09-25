@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Beethoven’s Ninth Symphony</title>
+</head>
+<body>
+
+  <h1>Beethoven’s Ninth Symphony</h1>
+  <h2>The Fourth Movement</h2>
+  <h3>Sonata-Concerto Form</h3>
+
+  <p>
+    <b>1.</b> Open Ritornello<br>
+    <b>2.</b> Exposition<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>1.</b> Horror/Recitative<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>2.</b> Joy Theme<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>3.</b> Turkish Music<br>
+    <b>3.</b> Development<br>
+    <b>4.</b> Recapitulation<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>1.</b> Joy Theme<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>2.</b> Awe Theme<br>
+    <b>5.</b> Codas Nos. 1 2 3
+  </p>
+
+</body>
+</html>
