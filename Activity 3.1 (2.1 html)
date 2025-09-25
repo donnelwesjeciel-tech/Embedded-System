@@ -1,0 +1,75 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedro's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            float: right;
+            margin-left: 20px;
+        }
+        .resume-header {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="resume-header">
+        <h1>Pedro García's Resume</h1>
+    </div>
+
+    <div class="section">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:pedro@example.com">pedro@example.com</a></p>
+        <p>Phone: (555) 555-5555</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Project Management</li>
+            <li>Data Analysis</li>
+            <li>Team Leadership</li>
+            <li>Marketing Strategy</li>
+            <li>Financial Planning</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Work Experience</h2>
+        <p><b>Company A</b> (2019–2021): Marketing Intern</p>
+        <p><b>Company B</b> (2021–Present): Project Manager</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p>Bachelor’s Degree in Business Administration<br>
+        XYZ University (2019)</p>
+    </div>
+
+    <div class="section">
+        <h2>Photo</h2>
+        <img src="photo.jpg" alt="Pedro's Photo" class="photo">
+    </div>
+
+</body>
+</html>
